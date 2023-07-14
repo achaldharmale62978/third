@@ -21,7 +21,7 @@ const Functional =()=>{
    
     return(
         <>
-            <h2>Functional Event</h2>
+            <h2>Functional Event component</h2>
             <button onClick={functionhandler}>Function 1</button><br/><br/>
             <button onClick={Event}>Funtion 2</button><br/><br/>
             <a href="https://www.apple.com/in/iphone/" onClick={Event2}> Function 3</a>
